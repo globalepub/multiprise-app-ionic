@@ -2,12 +2,8 @@
 
 Application mobile cross-platform (iOS/Android) pour le contrôle à distance d'une multiprise intelligente.
 
-# Application Ionic pour Multiprise Intelligente
-
-Ceci est le code source de l'application mobile pour contrôler une multiprise connectée DIY.
-
 ## Vue d'ensemble
-Application mobile cross-platform développée avec Ionic 7 et Angular 17 pour contrôler des multiprises intelligentes connectées. 
+Application mobile cross-platform développée avec Ionic et Angular pour contrôler des multiprises intelligentes connectées. 
 L'application permet de :
 
 * Contrôler individuellement chaque prise à distance
