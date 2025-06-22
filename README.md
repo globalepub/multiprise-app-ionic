@@ -1,5 +1,4 @@
-# multiprise-app-ionic
-Multiprise connectée
+# Multiprise connectée
 # Application Ionic pour Multiprise Intelligente
 
 Ceci est le code source de l'application mobile pour contrôler une multiprise connectée DIY.
