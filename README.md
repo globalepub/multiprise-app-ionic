@@ -1,4 +1,7 @@
-# Multiprise connectée
+# Multiprise Connectée - Application Mobile
+
+Application mobile cross-platform (iOS/Android) pour le contrôle à distance d'une multiprise intelligente.
+
 # Application Ionic pour Multiprise Intelligente
 
 Ceci est le code source de l'application mobile pour contrôler une multiprise connectée DIY.
